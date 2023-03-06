@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/count.dir/src/PMiner.cpp.o CMakeFiles/count.dir/src/main.cpp.o -o bin/count 
