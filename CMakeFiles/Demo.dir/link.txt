@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/Demo.dir/src/PMiner.cpp.o CMakeFiles/Demo.dir/src/main.cpp.o -o bin/Demo 

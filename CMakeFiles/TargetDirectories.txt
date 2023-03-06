@@ -1,3 +1,0 @@
-/home/wangyj/Beta/PMiner/CMakeFiles/rebuild_cache.dir
-/home/wangyj/Beta/PMiner/CMakeFiles/edit_cache.dir
-/home/wangyj/Beta/PMiner/CMakeFiles/count.dir
